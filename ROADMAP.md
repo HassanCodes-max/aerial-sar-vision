@@ -3,7 +3,7 @@
 Budget: about 2 hours per day. Heavy training happens on Kaggle/Colab GPUs; the laptop is for code, data checks and light inference. Week numbers are estimates and will shift. Learning happens alongside building, and each phase lists what to learn first.
 
 ## Phase 0: Setup and first contact (week 1)
-- [ ] Create the GitHub repo and push this scaffold
+- [x] Create the GitHub repo and push this scaffold
 - [ ] Set up a Kaggle/Colab notebook that installs dependencies and saves outputs outside the session
 - [ ] Run a pretrained YOLO model on a few drone images and a short video
 - [ ] Download VisDrone and explore it: class counts, object sizes, images per split
