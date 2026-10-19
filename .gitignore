@@ -1,0 +1,22 @@
+# Data and model files (never commit datasets or weights)
+data/
+datasets/
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store

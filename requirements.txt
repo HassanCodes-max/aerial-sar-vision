@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+pyyaml
+tqdm
+sahi
+onnx
+onnxruntime
